@@ -3,6 +3,8 @@ by Justin Elli
 
 Command-line command: passmngr
 
+Run on repl.it: https://replit.com/@julky117/Password-Manager
+
 |-- Options --|
 
 [filename]
