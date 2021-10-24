@@ -1,9 +1,9 @@
-|------------------------------- Password Manager -------------------------------|
-|-------------------------------- by Justin Elli --------------------------------|
+Password Manager
+by Justin Elli
 
 Command-line command: passmngr
 
-|----------------------------------- Options ------------------------------------|
+|-- Options --|
 
 [filename]
 	Opens the specified filename for editing.
